@@ -1,0 +1,18 @@
+#services .box img{
+    width: 100px;
+}
+#logo img {
+    height: 62px;
+}
+#home {
+    height: 406px;
+    padding: 3px 23px;
+}
+#navbar ul li a {
+    font-size: 0.9rem;
+    padding: 0px 4px;
+}
+
+.client-item {
+    padding: 3px;
+}
